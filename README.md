@@ -11,11 +11,10 @@ Desenvolvedor de software. Gosto de transformar problemas reais em programas sim
 
 ## Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![Inteligência artificial](https://img.shields.io/badge/Intelig%C3%AAncia_artificial-6f42c1?style=flat)
 
 ## Projetos em destaque
 
