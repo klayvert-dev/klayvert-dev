@@ -7,7 +7,7 @@ Desenvolvedor de software. Gosto de transformar problemas reais em programas sim
 - Trabalhando agora em: **nome do projeto**
 - Aprendendo: **tecnologia que você está estudando**
 - Aberto a: projetos, colaborações e vagas
-- Fale comigo: seu-email@exemplo.com
+- Fale comigo: klayvertlima@icloud.com
 
 ## Tecnologias
 
